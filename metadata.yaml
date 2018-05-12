@@ -1,0 +1,43 @@
+_repo: Mulheres-e-crean-as--notas-sobre-educa--o_29550
+_version: 0.1.0
+alternative_title: 'Mulheres e crianças: notas sobre educação'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalho, Maria Amália Vaz de
+    alias: Carvalho, Maria Amalia Vaz de
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '31923'
+    url: http://www.gutenberg.org/2009/agents/31923
+    wikipedia: http://pt.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
+description: ''
+gutenberg_issued: '2009-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29550'
+  lccn: '35022911'
+language: pt
+language_note:
+- "Este livro eletrónico usa a ortografia da edição em papel do século XIX.\r\nPara\
+  \ ajudar o Project Gutenberg a atualizar a ortografia desta obra, visite a página\
+  \ http://www.gutenberg.org/wiki/PT_Ortografia"
+- This ebook uses 19th century spelling
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: "Porto:\r\nEditores ― Joaquim Antunes Leitão e Irmão \r\nRua do\
+  \ Almada 209 ― 1.º andar \r\n1880"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bibliotheca do cura de aldeia
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Education'
+- !lcsh 'Women -- Social conditions'
+- !lcsh 'Child care'
+title: 'Mulheres e creanças: notas sobre educação'
+url: http://www.gutenberg.org/ebooks/29550
