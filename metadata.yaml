@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31923
     wikipedia: http://pt.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29550#Mulheres-e-crean-as--notas-sobre-educa--o
 gutenberg_issued: '2009-07-30'
 gutenberg_type: Text
 identifiers:
